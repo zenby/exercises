@@ -1,5 +1,5 @@
 var assert = require('assert')
-var async = require('./async')
+var async = require('./solution')
 
 describe('async', function () {
   describe('has a sequence method that', function () {
